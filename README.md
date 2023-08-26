@@ -140,7 +140,7 @@
         </tr>
         <tr>
             <td><a  href="#" target="_blank" > <img src="https://raw.githubusercontent.com/ixakblt/ixakblt/main/src/toncoin.svg" alt="TON" width="40" height="40"></a></td>
-            <td>EQCZXt_mNEihIkd091MgIN-LkXYsJ56yzBLI17rdgFFhda83</td>
+            <td>EQAEsiG5DxU85RLHyjAXwvqHau96tWh7EHnaFCP-r26XJJfn</td>
         </tr>
         <tr>
             <td><a  href="#" target="_blank" > <img src="https://raw.githubusercontent.com/ixakblt/ixakblt/main/src/rvn.svg" alt="RVN" width="40" height="40"></a></td>
