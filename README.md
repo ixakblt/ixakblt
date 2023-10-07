@@ -39,7 +39,7 @@
                 <a href="https://reddit.com/u/ixakblt" target="blank"><img style="margin-top:5px;" align="center"
             src="https://raw.githubusercontent.com/ixakblt/ixakblt/main/src/reddit.svg"
             alt="ixakblt" height="30" width="40" /></a>
-            <a href="https://ixakblt.dev" target="blank"><img style="margin-top:5px;" align="center"
+            <a href="https://blog.ixakblt.dev" target="blank"><img style="margin-top:5px;" align="center"
             src="https://raw.githubusercontent.com/ixakblt/ixakblt/main/src/web.svg"
             alt="ixakblt" height="30" width="40" /></a>
 </p>
@@ -49,24 +49,24 @@
 <h1 align="center" style="margin-top:20px">My Skills</h1>
 
 <p align="center"> 
-<a href="https://www.docker.com/" target="_blank">
-    <img style="margin-top:5px;"
-            src="https://raw.githubusercontent.com/ixakblt/ixakblt/main/src/docker.svg"
-            alt="docker" 
-            width="40" 
-            height="40" /> </a> 
-<a href="https://flutter.dev" target="_blank">
-    <img    style="margin-top:5px;"
-            src="https://raw.githubusercontent.com/ixakblt/ixakblt/main/src/flutter.svg" 
-            alt="flutter" 
-            width="40" 
-            height="40" /></a> 
 <a href="https://golang.org" target="_blank"> 
     <img style="margin-top:5px;"
             src="https://raw.githubusercontent.com/ixakblt/ixakblt/main/src/go.svg" 
             alt="go" 
             width="40"
             height="40" /> </a> 
+<a href="https://www.docker.com/" target="_blank">
+    <img style="margin-top:5px;"
+            src="https://raw.githubusercontent.com/ixakblt/ixakblt/main/src/docker.svg"
+            alt="docker" 
+            width="40" 
+            height="40" /> </a> 
+<!-- <a href="https://flutter.dev" target="_blank">
+    <img    style="margin-top:5px;"
+            src="https://raw.githubusercontent.com/ixakblt/ixakblt/main/src/flutter.svg" 
+            alt="flutter" 
+            width="40" 
+            height="40" /></a>  -->
 <a href="https://www.linux.org/" target="_blank"> 
     <img style="margin-top:5px;"
             src="https://raw.githubusercontent.com/ixakblt/ixakblt/main/src/linux.svg" 
@@ -79,12 +79,12 @@
             alt="python" 
             width="40" 
             height="40" /> </a> 
-<a href="https://vuejs.org/" target="_blank"> 
+<!-- <a href="https://vuejs.org/" target="_blank"> 
     <img style="margin-top:5px;"
             src="https://raw.githubusercontent.com/ixakblt/ixakblt/main/src/vuejs.svg" 
             alt="vuejs" 
             width="40" 
-            height="40" /> </a>
+            height="40" /> </a> -->
 <a href="https://nodejs.org/" target="_blank"> 
     <img style="margin-top:5px;"
             src="https://raw.githubusercontent.com/ixakblt/ixakblt/main/src/nodejs.svg" 
